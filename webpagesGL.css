@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+/*
+   *Name: [Vianney Villa]
+   *Unity ID:  [200586846]
+   *Date: [11.19.2026]
+   *Assignment: [Assignment Name]
+   *Descirption: [Assignment Description]
+ */
+
+p{
+    font-family: Times;
+    font-size 16px;
+    color: #decaff
+}
+
+.table-boarder {
+    boarder: 1px solid #DECAFF;
+}
+
+#id {
+    property: value;
+}
+
+#photo-resize {
+    max-width: 250px;
+    max-height: 300px;
+}
